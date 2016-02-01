@@ -1,0 +1,28 @@
+name: zulle
+favicon: null
+layout_spectrum: 0.8374525404069573
+typography_spectrum: 0.8512418395839632
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7009427535813302
+  lightness: 0.28982688300311565
+  saturation: 0.17570478399284184
+  rhythmicContrast: 0.45865145651623607
+purpose: []
